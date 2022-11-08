@@ -1,0 +1,17 @@
+[
+    {
+        "id" : 1,
+        "question" : "Why you should make an FAQ page?",
+        "answer" : "An FAQ page is a time-saving customer service tactic that provides the most commonly asked questions and answers for current or potential customers."
+    },
+    {
+        "id" : 2,
+        "question" : "When is an FAQ page appropriate?",
+        "answer" : "If you’re considering making an FAQ page and don’t know if it’s completely necessary, that’s ok. An FAQ page is almost always appropriate. If you get lots of the same questions over and over again, then you definitely need to create an FAQ page. When you have a blog with a multitude of great content, an FAQ page is needed to educate customers about your product through those articles."
+    },
+    {
+        "id" : 3,
+        "question" : "What are the most frequently asked questions?",
+        "answer" : "A good FAQ is general enough to address many issues. There are questions that just about every company answers on their FAQ page, so if you’re struggling to get started use these are your starting point. If they’re relevant to your company, of course."
+    }
+]
