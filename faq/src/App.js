@@ -24,7 +24,6 @@ class App extends React.Component {
       .then(response => {
         let faq_res = response
         this.setState({ faq_data: faq_res.data })
-        console.log(this.state.faq_data);
       })
   }
   render() {
