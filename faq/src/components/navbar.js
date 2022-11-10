@@ -7,7 +7,7 @@ class NAVBAR extends React.Component {
         return (
             <Navbar bg="light" variant="light">
                 <Container>
-                    <Navbar.Brand href="#home"><Link to='/'>SlashRTC</Link></Navbar.Brand>
+                    <Navbar.Brand>SlashRTC</Navbar.Brand>
                     <Nav className="me-auto">
                         <Nav.Link><Link to='/'>FAQ</Link></Nav.Link>
                         <Nav.Link><Link to='/contact'>Contact</Link></Nav.Link>
